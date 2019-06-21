@@ -5,7 +5,7 @@
 ##### To download and learn about how to use ATHENA, go to [http://proofcentral.org/](http://proofcentral.org/)
 
 ##### Note:
-* Once ATHENA has been installed and set up, load `nmac\proofs.ath` to compile the proofs using ATHENA.
+* Once ATHENA has been installed and set up, load `nmac/proofs.ath` to compile the proofs using ATHENA.
 
 * The `OUTPUT` file in directory `nmac` contains precompiled output of the proofs in ATHENA.
 
