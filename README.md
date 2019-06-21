@@ -2,12 +2,16 @@
 
 ##### This repository contains the ATHENA specifications and proofs from the paper [Conflict Aware Flight Planning for Avoiding Near Mid-Air Collisions](http://wcl.cs.rpi.edu/papers/DASC_19.pdf "Research Paper")
 
-##### To download and learn about how to use ATHENA, go to [http://proofcentral.org/](http://proofcentral.org/)
+##### [DOWNLOAD ATHENA](http://proofcentral.org/)
 
 ##### Note:
 * Once ATHENA has been installed and set up, load `nmac/proofs.ath` to compile the proofs using ATHENA.
 
 * The `OUTPUT` file in directory `nmac` contains precompiled output of the proofs in ATHENA.
+
+* [ATHENA user's guide](http://proofcentral.org/athena/Athena_User's_Guide.pdf)
+
+* For more about ATHENA, refer to the book [Fundamental Proof Methods in Computer Science](https://mitpress.mit.edu/books/fundamental-proof-methods-computer-science) by Konstantine Arkoudas and David Musser, MIT Press, 2017.
 
 ##### DISCLAIMER: 
 Copyright &copy; 2019 Saswata Paul
