@@ -2,6 +2,11 @@
 
 ##### This repository contains the ATHENA specifications and proofs from the paper [Conflict Aware Flight Planning for Avoiding Near Mid-Air Collisions](http://wcl.cs.rpi.edu/papers/DASC_19.pdf "Research Paper")
 
+##### Contents:
+* `nmac` - contains the Athena specification and proofs
+
+* `simulation_code` - contains the (undocumented) code used for the simulations
+
 ##### ATHENA:
 * [Download ATHENA](http://proofcentral.org/)
 
